@@ -1,0 +1,33 @@
+/* Stylesheet for Evidence 3 */
+
+html body {background-color:brown;
+	vertical-align: top;
+	margin: 0;
+	padding: 0;
+	color:whitesmoke;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-weight: bold;
+	font-size:1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	vertical-align: top;
+	color:antiquewhite;
+	font-weight:300;
+}
+
+header, section {
+	vertical-align: top;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+ul li {
+	vertical-align: top;
+	display: inline-block;
+	padding: 5px;
+}
+nav a {
+	text-decoration: none;
+	color:antiquewhite;
+}
